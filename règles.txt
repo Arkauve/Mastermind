@@ -1,0 +1,14 @@
+Mastermind Les régles
+
+Le but du jeu:
+Le but du joueur est de trouver la bonne combinaison de 5 couleurs choisies au hasard par l'ordinateur.
+Le joueur possède au maximum 12 essais pour trouver la bonne combinaison, 
+S'il ne trouve pas la bonne combinaison au 12ème essai, le joueur a perdu.
+
+Les indications:
+Après avoir choisi une combinaison, le joueur appuie sur "valider", l'ordinateur vérifie alors si la combaisnaison est juste. 
+Si la combinaison est juste le joueur gagne. 
+Sinon l'ordinateur indique le nombre de couleurs présentes et bien placées par rapport à la combinaison choisie par l'ordinateur,
+ce nombre s'affiche dans la case blanche; la case noire indique le nombre de couleurs présentes mais mal placées.
+
+Bonne chance !
